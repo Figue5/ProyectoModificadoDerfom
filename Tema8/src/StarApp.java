@@ -11,7 +11,8 @@ public class StarApp {
 
 		System.out.println(mh1.getMiHora());
 		System.out.println(mh2.getMiHora());
-		
+		System.out.println("hola");
+
 		System.out.println(mh1);
 		
 		}
